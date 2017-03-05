@@ -1,0 +1,1 @@
+pre_data_path='C:\Users\lgy\Desktop\loop_closure_kyle\BOW_LIBSVM\\images';
