@@ -3,6 +3,8 @@ this is the loop closure testing for BRLD/SIFT by Shiwei Zhuang
 This program is all  in  matlab
 ###put data directory to BOW_LIBSVM
  - The local data only has the BRLD descriptors, SIFT descriptors is too big to upload, you can generate SIFT descriptors  by your SIFT,of course you should read the code and  remove some ".mat" files in data\global.
+ 
+
 ###1.Open the directory “labels” 
  - open ini.m,change the path
     pre_data_path='**E:\loop_closure_kyle**\BOW_LIBSVM\images' to your
