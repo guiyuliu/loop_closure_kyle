@@ -48,4 +48,4 @@ error：lsd无法调用，重新编译lsd，见文件夹lsd，***lsd在matlab中
 如果添加了新图片，要生成bow向量，把flag从global文件夹里移除，
 ##do_index
 找到测试图像和训练图像之间的相似性，并获得最相似的k个图像  
-计算相似性用的是subspace函数，即BOW之间向量的夹角
+计算相似性用的是subspace函数
