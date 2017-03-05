@@ -29,7 +29,7 @@ Global:用来存储一些全局flag
 生成BRLD的描述子,存储在data/local/BRLD的每个文件夹里  
 **flag**：data/global/desBRLD_settings，标志BRLD是否生成  
 **如果要添加训练/测试图片，改变后将desBRLD_settings.mat移除**，修改循环变量，就可以为新添加的图片生成描述子  
-error：lsd无法调用，重新编译lsd，见文件***lsd在matlab中的编译及使用***
+error：lsd无法调用，重新编译lsd，见文件夹lsd，***lsd在matlab中的编译及使用***
 
 ###CalculateBRLDDictionary
 通过k-means聚类的方法，用training中的图片来生成vocabulary  
