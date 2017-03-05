@@ -1,6 +1,7 @@
 # loop_closure_kyle
 this is the loop closure testing for BRLD/SIFT by Shiwei Zhuang
 This program is all  in  matlab
+###put data directory to BOW_LIBSVM
 ###1.Open the directory “labels” 
  - open ini.m,change the path
     pre_data_path='**E:\loop_closure_kyle**\BOW_LIBSVM\images' to your
